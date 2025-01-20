@@ -9,6 +9,12 @@
 ##### Мотивацией смены деятельности стали брат и друг разработчики. Благодаря им я начал познавать программирование, создание первого стайта стало чудом. По сей день я изучаю с интересом новые технологии, постоянно консультируюсь и обучаюсь у них. Так же большой мотивацией послужила уверенность в завтрашнем дне, как главе семьи, так как эта сфера постоянно развивается.
 ##### В свободное время занимаюсь волейболом, люблю бассейн и настольные игры.
 
+## Часть сайтов, с которыми можно ознакомиться:
+#### Memory Game [Demo](https://biokarl.github.io/memory-game/) | [Code](https://github.com/Biokarl/react-pizza)
+#### Mesto [Demo](https://biokarl.github.io/mesto-project-ff/) | [Code](https://github.com/Biokarl/mesto-project-ff?tab=readme-ov-file)
+#### Zakrivayuschiy Teg [Demo](https://biokarl.github.io/zakrivayuschiy-teg-f/) | [Code](https://github.com/Biokarl/zakrivayuschiy-teg-f?tab=readme-ov-file)
+#### Historical Dates(В разработке, ТЗ) [Demo](https://biokarl.github.io/historical-dates/) | [Code](https://github.com/Biokarl/historical-dates)
+
 
 ### Мой стек:
 
