@@ -14,7 +14,7 @@
 #### Parallax [Demo](https://biokarl.github.io/Parallax/) | [Code](https://github.com/Biokarl/Parallax)
 #### Zakrivayuschiy Teg [Demo](https://biokarl.github.io/zakrivayuschiy-teg-f/) | [Code](https://github.com/Biokarl/zakrivayuschiy-teg-f?tab=readme-ov-file)
 #### Mesto [Demo](https://biokarl.github.io/mesto-project-ff/) | [Code](https://github.com/Biokarl/mesto-project-ff?tab=readme-ov-file)
-#### Historical Dates(В разработке, ТЗ) [Demo](https://biokarl.github.io/historical-dates/) | [Code](https://github.com/Biokarl/historical-dates)
+#### Historical Dates(ТЗ) [Demo](https://biokarl.github.io/historical-dates/) | [Code](https://github.com/Biokarl/historical-dates)
 
 
 ### Мой стек:
