@@ -10,6 +10,7 @@
 
 ## Часть сайтов, с которыми можно ознакомиться:
 #### Конструктор бургеров [Demo](https://biokarl.github.io/stellar-burgers/) | [Code](https://github.com/Biokarl/stellar-burgers)
+#### Пиццерия [Demo](https://biokarl.github.io/react-pizza/) | [Code](https://github.com/Biokarl/react-pizza)
 #### Historical Dates(GSAP) [Demo](https://biokarl.github.io/historical-dates/) | [Code](https://github.com/Biokarl/historical-dates)
 #### Dashboard(mobile) [Demo](https://biokarl.github.io/dashboard/) | [Code](https://github.com/Biokarl/dashboard)
 #### TODO [Demo](https://biokarl.github.io/todo/) | [Code](https://github.com/Biokarl/todo)
